@@ -1,0 +1,11 @@
+<a href="https://laundry-jet-nz.notion.site/Laundry-Jet-Power-Unit-Options-6a4c8a6c5bb44042b12224260fc0bb12" target="_blank">
+  <button style="background-color: orange; color: white; border: none; padding: 10px 20px; font-size: 16px;">
+    Click Here For Laundry Jet Power Units
+  </button>
+</a>
+
+<style>
+  button:hover {
+    background-color: red;
+  }
+</style>
